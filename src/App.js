@@ -1,7 +1,8 @@
 import Header from "./components/Header";
 import Home from "./components/Home";
 import Work from "./components/Work";
-import Work from "./components/Experince.jsx";
+import Experince from "./components/Experince";
+import Services from "./components/Services.jsx";
 import './styles/app.scss';
 import './styles/header.scss';
 
@@ -12,6 +13,7 @@ function App() {
      <Home/>
      <Work/>
      <Experince/>
+     <Services/>
     </>
   );
 }
