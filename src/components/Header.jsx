@@ -10,7 +10,7 @@ const Header = () => {
 
 const NavContent = ()=>(
     <>
-        <h2>It's Jitu</h2>
+        <h2>Jiten</h2>
         <div>
             <a href="#home">Home</a>
             <a href="#work">Work</a>
