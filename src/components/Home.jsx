@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import { animate, motion } from "framer-motion";
 import TypeWriter from "typewriter-effect";
-import { BsArrowUpRight } from "react-icons/bs";
+import { BsArrowUpRight,BsChevronDown } from "react-icons/bs";
 import me from '../assets/logo1.png'
 const Home = () => {
 
@@ -11,7 +11,7 @@ const Home = () => {
   const animationClientCount = ()=>{
     animate(0,100,{
       duration:1,
-      onUpdate:(v)=>(clientRef.current.textContent = v.toFixed()),
+      onUpdate:(v)=>(clientRef.current.textContent = v.toFixed(0)),
     })
   }
   const animationProjectCount = ()=>{
@@ -51,7 +51,8 @@ const Home = () => {
           <motion.h1 {...animations.h1}>
             Hi, I Am <br /> Jiten Mohanty.
           </motion.h1>
-          <TypeWriter
+         <h2>
+         <TypeWriter
             options={{
               strings: ["A Devloper", "A Designer", "A Creater"],
               autoStart: true,
@@ -59,6 +60,7 @@ const Home = () => {
               wrapperClassName: "typewriterpara",
             }}
           />
+         </h2>
           <div>
             <a href="mailto:jitenmohatyay@gmail.com">Colaborate With Me</a>
             <a href="#work">
@@ -90,8 +92,9 @@ const Home = () => {
         </div>
       </section>
       <section>
-        <img src={me} alt="Abhishek" />
+        <img src={me} alt="Jiten" />
       </section>
+      <BsChevronDown />
     </div>
   );
 };

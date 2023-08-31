@@ -1,12 +1,12 @@
 import React from "react";
 import data from "../assets/data.json";
 
-const Experince = () => {
+const Timeline = () => {
   return (
-    <div id="experince">
-      <div className="experinceBox">
+    <div id="timeline">
+      <div className="timelineBox">
         {data.projects.map((item, index) => (
-          <ExperinceItem
+          <TimelineItem
             heading={item.title}
             text={item.date}
             index={index}
@@ -18,17 +18,17 @@ const Experince = () => {
   );
 };
 
-const ExperinceItem = ({ heading, text, index }) => (
+const TimelineItem = ({ heading, text, index }) => (
   <div
-    className={`experinceItem ${
-      index % 2 === 0 ? "leftExperince" : "rightExperince"
+    className={`timelineItem ${
+      index % 2 === 0 ? "leftTimeline" : "rightTimeline"
     }`}
   >
     <div>
-    <h2>{heading}</h2>
-    <p>{text}</p>
+      <h2>{heading}</h2>
+      <p>{text}</p>
     </div>
   </div>
 );
 
-export default Experince;
+export default Timeline;
