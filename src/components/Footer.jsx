@@ -27,10 +27,10 @@ const Footer = () => {
 
         <article>
           <a href="https://www.linkedin.com/in/jiten-mohanty/" target={"blank"}>
-            <AiFillLinkedin />
+            <AiFillLinkedin style={{backgroundColor:'blue'}}/>
           </a>
-          <a href="https://instagram.com/jitujitenmohanty" target={"blank"}>
-            <AiFillInstagram/>
+          <a href="https://instagram.com/jitujitenmohanty"  target={"blank"}>
+            <AiFillInstagram style={{backgroundColor:'#fa058c',height:'32px'}}/>
           </a>
           <a href="https://github.com/jitenmohanty" target={"blank"}>
             <AiFillGithub />

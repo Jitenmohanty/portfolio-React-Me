@@ -26,6 +26,8 @@ nav {
             letter-spacing: 1px;
             &:hover{
                 color: $color3;
+                text-decoration: underline;
+                animation: headerItem 0.5s ease;
             }
         }
     }
