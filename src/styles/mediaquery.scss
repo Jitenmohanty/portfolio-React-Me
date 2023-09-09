@@ -6,7 +6,7 @@
 
   #timeline {
     width: 100%;
-    height: 148vh;
+    height: 100%;
     background-color: $color1;
   }
 
@@ -60,7 +60,7 @@
 
   #timeline {
     width: 100%;
-    height: 139vh;
+    height: 100%;
     background-color: $color1;
   }
 
@@ -283,7 +283,7 @@
 @media screen and (max-width: 786px) {
   #timeline {
     width: 100%;
-    height: 147vh;
+    height: 100%;
     background-color: $color1;
   }
 
@@ -409,7 +409,7 @@
   #timeline {
 
     width: 100%;
-    height: 140vh;
+    height: 100%;
     background-color: $color1;
 
     .timelineItem>div {
@@ -512,7 +512,7 @@
 
   #timeline {
     width: 100%;
-    height: 119vh;
+    height: 100%;
     background-color: $color1;
   }
 
@@ -528,11 +528,7 @@
 
 @media screen and (max-width: 360px) {
 
-  #timeline {
-    width: 100%;
-    height: 130vh;
-    background-color: $color1;
-  }
+
   #timeline .timelineItem > div {
     background-color: #292b46;
     border-radius: 6px;
