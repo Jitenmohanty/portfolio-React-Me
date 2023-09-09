@@ -4,6 +4,13 @@
     margin-left: 50px;
   }
 
+  #timeline .timelineItem>div {
+    background-color: #292b46;
+    border-radius: 6px;
+    color: #fef2f2;
+    padding: 11px 30px
+  }
+
   #work {
     padding: 8rem $p_md;
     height: 120vh;
@@ -43,6 +50,19 @@
 @media screen and (max-width: 1367px) {
   nav {
     padding: 0 $p_md;
+  }
+
+  #timeline {
+    width: 100%;
+    height: 142vh;
+    background-color: $color1;
+  }
+
+  #timeline .timelineItem>div {
+    background-color: #292b46;
+    border-radius: 6px;
+    color: #fef2f2;
+    padding: 11px 30px
   }
 
   #home {
@@ -101,6 +121,7 @@
       width: 100%;
     }
   }
+
 
   #contact>section>form {
 
@@ -254,6 +275,12 @@
 }
 
 @media screen and (max-width: 786px) {
+  #timeline {
+    width: 100%;
+    height: 147vh;
+    background-color: $color1;
+  }
+
   nav {
 
     >div,
@@ -263,7 +290,9 @@
   }
 
   .navBtn {
-    display: block;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
   }
 }
 
@@ -302,9 +331,10 @@
             flex-direction: column;
             align-items: center;
             margin-left: 0;
+
             span {
               display: block;
-              width: 70%;
+              width: 80%;
               word-wrap: break-word;
             }
           }
@@ -369,6 +399,23 @@
       }
     }
   }
+
+  #timeline {
+
+    width: 100%;
+    height: 140vh;
+    background-color: $color1;
+
+    .timelineItem>div {
+      background-color: #292b46;
+      border-radius: 6px;
+      color: #fef2f2;
+      padding: 10px 20px
+    }
+
+  }
+
+
 
   #timeline {
     .timelineBox::after {
@@ -440,4 +487,17 @@
       display: none;
     }
   }
+
+  footer>aside>article {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    >a {
+      margin: 5px;
+    }
+  }
+
 }
