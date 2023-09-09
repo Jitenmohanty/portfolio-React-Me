@@ -1,6 +1,13 @@
 {
     "projects": [
       {
+        "date": "25/07/2023",
+        "title": "TEXT UTILS",
+        "description": "This is the sample Project On react  Where To learn and show case the Power Of react also some Utility of texts...",
+        "url": "https://jitenmohanty.github.io/TextUtils/",
+        "imgSrc": "https://media.istockphoto.com/id/1164644807/photo/person-marking-error-with-red-marker.webp?b=1&s=612x612&w=0&k=20&c=iQXqIp1nQiNZkG_GijxgQfdt8l-uBz9r6HHGDTkADtY="
+      },
+      {
         "date": "01/08/2023",
         "title": "TECHY STAR",
         "description": "This is the sample project on the Learning phase of React Js , Here I am learn to use Carosuel ....",
@@ -37,13 +44,7 @@
         "url": "https://cart-app-on-react-redux-toolkit.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
       },
-      {
-        "date": "25/07/2023",
-        "title": "TEXT UTILS",
-        "description": "This is the sample Project On react  Where To learn and show case the Power Of react also some Utility of texts...",
-        "url": "https://jitenmohanty.github.io/TextUtils/",
-        "imgSrc": "https://media.istockphoto.com/id/1440513619/photo/glossary-with-a-magnifying-glass.webp?b=1&s=612x612&w=0&k=20&c=r3L1lkwlETOYzLX67M08_08VI2e4pwZ2w6Eikg45AIc="
-      },
+
       {
         "date": "06/08/2023",
         "title": "CHAT APP",
@@ -56,7 +57,7 @@
         "title": "iNoteBook",
         "description": "This is the sample Project On react  Where To learn and show case the Power Of react also some Utility of texts...",
         "url": "https://jitenmohanty.github.io/TextUtils/",
-        "imgSrc": "https://media.istockphoto.com/id/1440513619/photo/glossary-with-a-magnifying-glass.webp?b=1&s=612x612&w=0&k=20&c=r3L1lkwlETOYzLX67M08_08VI2e4pwZ2w6Eikg45AIc="
+        "imgSrc": "https://images.freeimages.com/images/large-previews/a39/notes-on-wood-4-1315469.jpg?fmt=webp&w=350"
       },
       {
         "date": "20/10/2022",
