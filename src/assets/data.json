@@ -1,14 +1,14 @@
 {
     "projects": [
       {
-        "date": "25/07/2023",
+        "date": "25/05/2023",
         "title": "TEXT UTILS",
         "description": "This is the sample Project On react  Where To learn and show case the Power Of react also some Utility of texts...",
         "url": "https://jitenmohanty.github.io/TextUtils/",
         "imgSrc": "https://media.istockphoto.com/id/1164644807/photo/person-marking-error-with-red-marker.webp?b=1&s=612x612&w=0&k=20&c=iQXqIp1nQiNZkG_GijxgQfdt8l-uBz9r6HHGDTkADtY="
       },
       {
-        "date": "01/08/2023",
+        "date": "01/06/2023",
         "title": "TECHY STAR",
         "description": "This is the sample project on the Learning phase of React Js , Here I am learn to use Carosuel ....",
         "url": "https://tech-star-iota.vercel.app/",
@@ -16,7 +16,7 @@
       },
   
       {
-        "date": "07/08/2023",
+        "date": "17/07/2023",
         "title": "VIDEO HUB",
         "description": "This is the sample Project Of Video hub Here i am creating Login and SignUp page also we can Upload a video are You can seen your lecture Material...",
         "url": "https://chakra-ui-reack-project-videohub-git-master-jitenmohanty.vercel.app/",
