@@ -9,13 +9,13 @@ const Home = () => {
   const projectCountRef = useRef(null);
 
   const animationClientCount = ()=>{
-    animate(0,100,{
+    animate(0,10,{
       duration:1,
       onUpdate:(v)=>(clientRef.current.textContent = v.toFixed(0)),
     })
   }
   const animationProjectCount = ()=>{
-    animate(0,500,{
+    animate(0,50,{
       duration:1,
       onUpdate:(v)=>(projectCountRef.current.textContent = v.toFixed()),
     })
