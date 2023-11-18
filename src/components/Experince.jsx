@@ -25,7 +25,7 @@ const TimelineItem = ({ heading, text, index }) => (
     }`}
   >
     <div>
-      <h2>{heading}</h2>
+      <h4>{heading}</h4>
       <p>{text}</p>
     </div>
   </div>

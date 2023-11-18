@@ -14,12 +14,12 @@
     background-color: #292b46;
     border-radius: 6px;
     color: #fef2f2;
-    padding: 11px 30px
+    padding: 3px 12px
   }
 
   #work {
-    padding: 8rem $p_md;
-    height: 120vh;
+    padding: 4rem $p_md;
+    height: 80vh;
 
     h2 {
       margin-top: 2rem;
@@ -53,7 +53,7 @@
 }
 
 
-@media screen and (max-width: 1367px) {
+@media screen and (max-width: 1467px) {
   nav {
     padding: 0 $p_md;
   }
@@ -72,7 +72,7 @@
   }
 
   #home {
-    height: 100vh;
+    height: 70vh;
 
     >section {
       &:first-of-type {
@@ -86,8 +86,8 @@
   }
 
   #work {
-    padding: 8rem $p_md;
-    height: 110vh;
+    padding: 4rem $p_md;
+    height: 80vh;
 
     >section {
       >article {
@@ -97,7 +97,7 @@
 
       .workItem {
         padding: 2rem;
-        height: 20rem;
+        height: 16rem;
 
         >aside {
           >p {
@@ -113,7 +113,7 @@
   }
 
   #services {
-    padding: $p_md;
+    // padding: $p_md;
 
     >section {
       height: 90%;
@@ -121,8 +121,8 @@
   }
 
   #testimonial {
-    padding: $p_md;
-
+    // padding: $p_md;
+    padding: 4vmax;
     >section {
       width: 100%;
     }
@@ -139,17 +139,18 @@
   }
 
   footer {
-    padding-left: $p_md;
+    // padding-left: $p_md;
+    padding-left: 22vmax;
   }
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1200px) {
   nav {
     padding: 0 $p_base;
   }
 
   #home {
-    height: 110vh;
+    height: 62vh;
 
     >section {
       &:first-of-type {
@@ -157,7 +158,7 @@
 
         >div {
           >h1 {
-            font: 900 3rem $text1;
+            font: 900 2rem $text1;
           }
 
           aside {
@@ -173,7 +174,7 @@
   }
 
   #services {
-    padding: $p_base_inverse;
+    // padding: $p_base_inverse;
     text-align: center;
   }
 }
@@ -194,7 +195,7 @@
   #home {
     >section {
       &:first-of-type {
-        padding-left: $p_sm;
+        // padding-left: $p_sm;
 
         >div {
           >div {
@@ -233,7 +234,7 @@
     padding: $p_zero;
 
     >h2 {
-      padding: 3rem;
+      padding: 1rem;
       margin-bottom: 0%;
     }
 
@@ -270,7 +271,7 @@
 
       p {
         width: 50%;
-        margin: 2rem auto;
+        margin: 1rem auto;
       }
     }
 
@@ -307,20 +308,20 @@
   #home {
     height: unset;
     flex-direction: column-reverse;
-
+   
     >section {
       &:first-of-type {
         display: flex;
         flex-direction: column;
         align-items: center;
         text-align: center;
-
+        padding-left: 0;
         >div {
           border: none;
-          padding-top: 3rem;
+          padding-top: 1rem;
 
           >h1 {
-            font: 900 2.5rem $text1;
+            font: 900 2rem $text1;
           }
 
           >div {
@@ -359,6 +360,7 @@
 
       &:last-of-type {
         border: none;
+        margin-top: 0.5rem;
       }
     }
 
@@ -370,6 +372,9 @@
 
   #work {
     padding: 2rem 0;
+    h2{
+      margin-top: 0;
+    }
 
     >section {
       >article {
@@ -494,10 +499,19 @@
 
   #contact {
     grid-template-columns: 1fr;
-
+    min-height: 75vh;
+    >section {
+      background-color: $color1;
+      width: 100%;
+      height: 90%;
+    }
     >aside {
       display: none;
     }
+  }
+
+  footer{
+    padding: 1rem 0;
   }
 
   footer>aside>article {
@@ -545,8 +559,8 @@
 }
 
   #services {
-    padding: 3vmax 0;
-    height: 80vmax;
+    padding: 1vmax 0;
+    height: 85vmax;
 }
 #services > section {
   height: 74%;
@@ -582,6 +596,9 @@
     color: #fef2f2;
     padding: 10px 20px;
     font-size: 12px;
+  }
+  footer{
+    padding: 1rem 0;
   }
 
 }

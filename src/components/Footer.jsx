@@ -3,7 +3,6 @@ import {
   AiFillGithub,
   AiFillInstagram,
   AiFillLinkedin,
-  AiFillYoutube,
   AiOutlineArrowUp,
 } from "react-icons/ai";
 

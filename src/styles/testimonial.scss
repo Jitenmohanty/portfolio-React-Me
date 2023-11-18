@@ -6,7 +6,7 @@
     >h2{
         font: 700 2.5rem $text2;
         text-align: center;
-        margin-bottom: 3rem;
+        margin-bottom: 1rem;
     }
     >section{
         display: flex;
@@ -14,8 +14,8 @@
         flex-wrap: wrap;
         width: 80%;
         margin: auto;
-        height: 40rem;
-        padding: 8rem;
+        height: 25rem;
+        padding: 5rem;
         background-color: $color1;
         gap: 20px;
         >article{
