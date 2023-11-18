@@ -65,6 +65,49 @@
         "description": "This is the Project That Show Case My Works and Connect With the Techy Freinds..",
         "url": "/",
         "imgSrc": "https://media.istockphoto.com/id/1413884806/photo/financial-advisor-or-lawyer-with-couple-explaining-options.webp?b=1&s=612x612&w=0&k=20&c=diY-qOJ0d947A78yGYXP1An0Ct3S995Erd43yIRiNv4="
+      },
+      {
+        "date": "10/09/2023",
+        "title": "Currency Convertor",
+        "description": "This is the sample Project On react  Where To Convert rupee to any currency also Swapping avalaible",
+        "url": "https://https-github-com-jitenmohanty-react-hooks-tree-mas-jitenmohanty.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "date": "15/09/2023",
+        "title": "Todo App",
+        "description": "This is the sample Project On react  Where we store our todos also delete and complete tag to help track your todos..",
+        "url": "https://todo-assignment-blue.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/3299/postit-scrabble-to-do.jpg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "date": "20/09/2023",
+        "title": "Diseney Hotstar Clone",
+        "description": "This is the sample Project On react  Where we showcase on diseney frontend how work using firebase backend ",
+        "url": "https://desney-hotstar-three.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/6921010/pexels-photo-6921010.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "date": "29/09/2023",
+        "title": "Blog Post",
+        "description": "This is the major Project On react and appWrite Where we post our blogs and also read the other blogs...",
+        "url": "https://full-stack-blog-post-with-app-write.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "date": "04/10/2023",
+        "title": "Food Recipe Finder",
+        "description": "This is the simple Project On react where we find our recepe on  any type of foods you want to eat...",
+        "url": "https://food-finder-zeta.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/5966431/pexels-photo-5966431.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "date": "15/10/2023",
+        "title": "Instagram Typo Clone",
+        "description": "This is the major Project On react and appwrite where we create our connection and Like, Save and Create and update your posts... ",
+        "url": "https://instagram-typo-clone.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/2694434/pexels-photo-2694434.jpeg?auto=compress&cs=tinysrgb&w=600"
       }
+      
     ]
   }
