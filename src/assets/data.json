@@ -107,7 +107,27 @@
         "description": "This is the major Project On react and appwrite where we create our connection and Like, Save and Create and update your posts... ",
         "url": "https://instagram-typo-clone.vercel.app/",
         "imgSrc": "https://images.pexels.com/photos/2694434/pexels-photo-2694434.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "date": "09/12/2023",
+        "title": "E-Commerce",
+        "description": "This a Fullstack MERN app, Which was build using react, Redux, Node, Express, MongoDB also use Stripe for Payments gateways.",
+        "url": "https://ecommerce-app-full-satck.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "date": "1/02/2024",
+        "title": "Weather App",
+        "description": "This is a Weather app, Where you can find out tempreture and other information of any city you want just type the city name, then shows the result.",
+        "url": "https://weather-app-on-react.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/14756719/pexels-photo-14756719.jpeg?auto=compress&cs=tinysrgb&w=6000"
+      },
+      {
+        "date": "15/02/2024",
+        "title": "SUN DOWN Clone",
+        "description": "This is a Sun Down website clone using html css and js also use locomotive and GSAP to build.",
+        "url": "https://github.com/Jitenmohanty/Js_Projects.git",
+        "imgSrc": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600"
       }
-      
     ]
   }
