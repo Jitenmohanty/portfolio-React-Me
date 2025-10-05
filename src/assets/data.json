@@ -1,5 +1,77 @@
 {
     "projects": [
+          {
+        "title": "AI Money Manager",
+        "date": "01/02/2025",
+        "description": "AI budgeting platform built with Next.js and Supabase. Uses Gemini for insights, Clerk for auth, Arcjet for reports, and Inngest for automation to help users manage accounts and spend smarter.",
+        "url": "https://github.com/Jitenmohanty/NextJs_Projects/tree/master/money_manager_ai",
+        "demo": "",
+        "imgSrc": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "title": "AI Quiz Platform",
+        "date": "10/04/2024",
+        "description": "AI quiz app with Node.js, Express, and MongoDB. Auto-generates quizzes from uploads via Google Gemini AI, with feedback, progress tracking, leaderboards, and analytics.",
+        "url": "https://quiz-genie-academy-pro.vercel.app/",
+        "demo": "https://quiz-genie-academy-pro.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/5428830/pexels-photo-5428830.jpeg"
+      },
+      {
+        "date": "09/12/2023",
+        "title": "E-Commerce",
+        "description": "This a Fullstack MERN app, Which was build using react, Redux, Node, Express, MongoDB also use Stripe for Payments gateways.",
+        "url": "https://ecommerce-app-full-satck-jitenmohantys-projects.vercel.app/",
+        "demo": "https://ecommerce-app-full-satck-jitenmohantys-projects.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "title": "Morning Brief AI AGENT",
+        "date": "10/05/2024",
+        "description": "An AI Agent that summarizes daily news using AI models. It scrapes the web, compiles top headlines, and delivers a concise morning brief, acting like your personal news assistant.",
+        "url": "https://github.com/Jitenmohanty/Daily_News_Agent",
+        "demo": "",
+        "imgSrc": "https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg"
+      },
+      {
+        "title": "Admin Dashboard",
+        "date": "10/04/2024",
+        "description": "A fully responsive Admin Dashboard built with React, TypeScript, SCSS, and Chart.js. Includes core admin features such as user management, analytics, data visualization, authentication, and responsive layouts for seamless performance across devices.",
+        "url": "https://react-admin-dashboard-fawn.vercel.app",
+        "demo": "https://react-admin-dashboard-fawn.vercel.app",
+        "imgSrc": "https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg"
+      },
+      {
+        "title": "AI Code Reviewer AI AGENT",
+        "date": "01/05/2024",
+        "description": "An AI-powered code review agent that reviews your code using advanced LLMs like OpenAI. It provides suggestions, detects bugs, and improves code quality automatically.",
+        "url": "https://github.com/Jitenmohanty/Ai_Code_Reviewer",
+        "demo": "",
+        "imgSrc": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "title": "Automated Tweet AI AGENT",
+        "date": "15/05/2024",
+        "description": "An AI-powered Twitter automation agent that generates and posts tweets about the computer science world. Built with Gemini API and X API, it creates engaging, real-time content automatically.",
+        "url": "https://github.com/Jitenmohanty/Tweet_Generator",
+        "demo": "",
+        "imgSrc": "https://media.istockphoto.com/id/178894719/photo/blue-twittering-bird-standing-on-the-word-tweet.jpg?s=1024x1024&w=is&k=20&c=WW4qmdUaL9vBj8YgeWW69R88_jMZya_QuUp0Cnnv2Mg="
+      },
+      {
+        "title": "Job Collector AI AGENT",
+        "date": "20/05/2024",
+        "description": "An AI Agent that fetches job opportunities matching your resume using the Adzuna API and Gemini AI. It stores jobs with apply links and details directly into Google Sheets for easy tracking and application.",
+        "url": "https://github.com/Jitenmohanty/Job_Collector_Agent",
+        "demo": "",
+        "imgSrc": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
+      },
+      {
+        "title": "React Oach Design  Clone",
+        "date": "20/05/2024",
+        "description": "Pixel-perfect Oach design clone built with React and GSAP, featuring smooth scroll animations, fluid transitions, and interactive UI for a modern, engaging experience.",
+        "url": "https://react-web-designs.vercel.app/",
+        "demo": "https://react-web-designs.vercel.app/",
+        "imgSrc": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg"
+      },
       {
         "date": "25/05/2023",
         "title": "TEXT UTILS",

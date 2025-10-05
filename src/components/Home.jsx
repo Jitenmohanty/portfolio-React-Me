@@ -54,7 +54,7 @@ const Home = () => {
          <h2>
          <TypeWriter
             options={{
-              strings: ["A Devloper", "A Designer", "A Creater"],
+              strings: ["A Developer", "A Designer", "A Creator", "A Backend Developer", "A System Designer", "A Fullstack Developer", "An AWS Enthusiast"],
               autoStart: true,
               loop: true,
               wrapperClassName: "typewriterpara",
